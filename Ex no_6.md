@@ -27,9 +27,6 @@ int main()
         printf("PLACEMENT\n");
         i++;
     }
-    
-
-    
 }
 ```
 
